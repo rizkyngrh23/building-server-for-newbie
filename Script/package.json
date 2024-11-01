@@ -1,0 +1,29 @@
+{
+    "name": "my-url-shortener-app",
+    "version": "1.0.0",
+    "description": "A simple URL shortener application",
+    "main": "server.js",
+    "type": "module",               
+    "scripts": {
+      "start": "node server.js",        
+      "dev": "nodemon server.js"        
+    },
+    "keywords": [
+      "URL",
+      "shortener",
+      "express",
+      "mongodb"
+    ],
+    "author": "Rizky",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.3",            
+      "mongoose": "^6.0.12",                
+      "shortid": "^2.2.16",               
+      "cors": "^2.8.5"                    
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.15"              
+    }
+  }
+  
