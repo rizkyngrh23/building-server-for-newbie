@@ -1,11 +1,11 @@
+<div style="text-align: justify;">
+
 # Express Server with MongoDB and HTTPS Support
 
 This project demonstrates setting up a secure Express server with MongoDB integration. The example functionality here is a simple URL shortener service.
 
 
 ## Disclaimer
-
-<div style="text-align: justify;">
 
 This project assumes that the reader has a basic understanding of the following concepts:
 
@@ -15,7 +15,6 @@ This project assumes that the reader has a basic understanding of the following 
 
 These concepts are fundamental to effectively utilizing and modifying this URL shortener application. If you are not familiar with these topics, it is recommended to review the relevant documentation or tutorials before proceeding.
 
-</div>
 
 ## Prerequisites
 
@@ -108,3 +107,5 @@ To test the API in Postman:
 - shortid - Generates short unique IDs
 - nodemon - Development utility for automatic restarts
 - cors - Middleware for enabling CORS (optional)
+
+</div>
