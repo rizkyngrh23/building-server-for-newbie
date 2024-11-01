@@ -5,6 +5,8 @@ This project demonstrates setting up a secure Express server with MongoDB integr
 
 ## Disclaimer
 
+<div style="text-align: justify;">
+
 This project assumes that the reader has a basic understanding of the following concepts:
 
 - **JavaScript Promises:** Familiarity with asynchronous programming using Promises in JavaScript.
@@ -12,6 +14,8 @@ This project assumes that the reader has a basic understanding of the following 
 - **HTTP Requests:** Knowledge of how HTTP requests function, including concepts related to request methods (GET, POST, etc.) and status codes.
 
 These concepts are fundamental to effectively utilizing and modifying this URL shortener application. If you are not familiar with these topics, it is recommended to review the relevant documentation or tutorials before proceeding.
+
+</div>
 
 ## Prerequisites
 
